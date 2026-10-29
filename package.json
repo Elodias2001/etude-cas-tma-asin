@@ -1,0 +1,11 @@
+{
+  "name": "etude-cas-tma-rendez-vous",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Module de règles de gestion de la prise de rendez-vous au guichet (étude de cas TMA)",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": { "node": ">=22.18" }
+}
